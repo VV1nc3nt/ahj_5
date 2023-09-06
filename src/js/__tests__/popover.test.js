@@ -1,4 +1,4 @@
-import addPopover from '../js/popover';
+import addPopover from '../popover';
 
 test('testing popover shown', () => {
   document.body.innerHTML = '<button class="popover_btn">Click to toggle popover</button>';
